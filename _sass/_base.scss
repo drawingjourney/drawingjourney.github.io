@@ -128,6 +128,10 @@ blockquote {
  */
 hr {
   margin-bottom: $spacing-unit / 1.5;
+  height: 1px;
+  color: rgb(232, 232, 232);
+  background-color: rgb(232, 232, 232);
+  border: none;
 }
 
 
