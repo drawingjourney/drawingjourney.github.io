@@ -10,7 +10,7 @@ Have you ever felt stuck in your career? Ever thought about quitting
 your 9-5 job to follow your passion instead? At some point I think
 most of us have, but few do more than think about it.
 
-That's why I was so excited to hear Bella Lo's story---stuck in a job
+That's why I was so excited to hear Bella Lo's story --- stuck in a job
 she disliked, Bella decided to take the leap from art hobbyist to
 professional.
 
@@ -18,7 +18,7 @@ A couple of months later she landed her first design position
 at [Wizdy Games](http://wizdygames.com/), a startup that makes
 educational games for kids.
 
-Hearing this I immediately wanted to know more---and she was nice
+Hearing this I immediately wanted to know more --- and she was nice
 enough to let me interview her! We talked about how she got into
 graphic design, the hardest parts about switching careers, and the
 YouTube video that finally made her decide to take the plunge. So,
@@ -104,7 +104,7 @@ a job? Things like that.
 {: .caption }
 Watercolor Animals by Bella Lo
 
-Now the really silly sounding part---bear with me---the "!@#$ it"
+Now the really silly sounding part --- bear with me --- the "!@#$ it"
 moment was when I watched Shia Labeouf's infamous ["JUST DO
 IT"](https://www.youtube.com/watch?v=ZXsQAXx_ao0) video. I had heard
 my friends talking about it, people referenced it a lot and I thought
@@ -121,7 +121,7 @@ terrible then at least I won't regret it later.
 
 I hope I can be that kind of inspiration to somebody, some day. I had
 a few friends who were very encouraging as well, so I definitely
-didn’t pull myself up by my bootstraps---I had a lot of help and
+didn’t pull myself up by my bootstraps --- I had a lot of help and
 encouragement along the way.
 
 #Switching Careers
@@ -151,7 +151,7 @@ After getting all of that background as to what I was about to do,
 I felt a lot more confident. Then I got a subscription to
 [Lynda.com](http://lynda.com/). This is not a paid advertisement!
 I learned so much from the online lessons and the instructors on that
-website---I can't thank them enough.
+website --- I can't thank them enough.
 
 **How long did it take before you got your current position at
 Wizdy?**
@@ -181,7 +181,7 @@ designing the "small things" like postcards and stickers right now,
 I think it's good for me to learn how to do them first. I often stop
 and think about how fortunate I am to be in a position where I can
 restart my career and enjoy it. There are still doubts nagging at me,
-but I try to see if they have any substance---if not, I just move on
+but I try to see if they have any substance --- if not, I just move on
 and keep trying.
 
 **Where do you want to go next?**
@@ -200,7 +200,7 @@ Illustration by Bella Lo, for Wizdy's "Did You Know?" series
 **So, where can we find you?**
 
 --- You can find me on
-[LinkedIn](https://www.linkedin.com/in/bellalo)---feel free to connect
+[LinkedIn](https://www.linkedin.com/in/bellalo) --- feel free to connect
 or message me at any time! I'm also on
 [Behance](http://behance.net/isa-bella) if you'd like to take a look
 at what I've been up to, and I also have
@@ -212,12 +212,12 @@ parting words of wisdom for those thinking of rebooting their
 careers?**
 
 --- If you ever wake up in the morning and tell yourself "I wish
-I could just quit my job and follow my passion"---just do it! And
-remember---do your research!
+I could just quit my job and follow my passion" --- just do it! And
+remember --- do your research!
 
 ---
 
-That's it for this time---hope you enjoyed reading the interview  as
+That's it for this time --- hope you enjoyed reading the interview  as
 much as I enjoyed making it!
 
 Would you like me to do more interviews? Maybe you have someone
