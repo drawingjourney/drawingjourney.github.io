@@ -124,7 +124,8 @@ a few friends who were very encouraging as well, so I definitely
 didn’t pull myself up by my bootstraps --- I had a lot of help and
 encouragement along the way.
 
-#Switching Careers
+Switching Careers
+-----------------
 
 **So once you made the decision to switch careers what did you do?**
 
@@ -172,7 +173,8 @@ I thought that was so cool – it was really encouraging to hear that
 people liked what I was doing enough to message me about it, even if
 a project ended up not working out.
 
-#Working As A Designer
+Working As A Designer
+---------------------
 
 **How do you feel about the present?**
 
