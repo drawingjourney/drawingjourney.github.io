@@ -37,6 +37,14 @@ ul, ol, dl, figure,
 }
 
 
+/**
+ * Body text
+ */
+p {
+  hyphens: auto;
+  -ms-hyphens: auto;
+  -webkit-hyphens: auto;
+}
 
 /**
  * Images
