@@ -154,7 +154,7 @@ website --- I can't thank them enough.
 **How long did it take before you got your current position at
 Wizdy?**
 
-–-- I’d say, about 3-4 months. I got the position because a friend was
+--- I'd say, about 3-4 months. I got the position because a friend was
 looking out for me and referred me there. Again, I didn’t pull myself
 up on my own bootstraps – a lot of help came my way!
 
