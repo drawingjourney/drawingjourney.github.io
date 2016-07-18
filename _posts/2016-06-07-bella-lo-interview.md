@@ -50,9 +50,8 @@ their hobbies, and encourage them to apply themselves and chase their
 passions. Little did I know it was advice I probably needed myself!
 
 ![Did You Know?](/assets/bella-lo-winter.png){: .center }
-
-{: .caption}
 Illustration by Bella Lo, for Wizdy's "Did You Know?" series
+{: .caption}
 
 **Did you have a feeling at the time that you wanted to pursue art as
 a career?**
@@ -100,9 +99,8 @@ out and I actually just suck at art and design, and I'll never get
 a job? Things like that.
 
 ![Watercolor animals](/assets/bella-lo-fox.jpg){: .center }
-
-{: .caption }
 Watercolor Animals by Bella Lo
+{: .caption }
 
 Now the really silly sounding part --- bear with me --- the "!@#$ it"
 moment was when I watched Shia Labeouf's infamous ["JUST DO
@@ -144,9 +142,8 @@ and I wouldn't be here right now.
 
 ![Watercolor animals by Bella
 Lo](/assets/bella-lo-dog-and-canary.jpg){: .center }
-
-{: .caption }
 Watercolor Animals by Bella Lo
+{: .caption }
 
 After getting all of that background as to what I was about to do,
 I felt a lot more confident. Then I got a subscription to
@@ -195,9 +192,9 @@ exciting things to learn in the world, but people aren’t accessing
 that information because it looks boring!
 
 ![Did You Know?](/assets/bella-lo-nintendo-controller.png){: .center}
-
-{: .caption }
 Illustration by Bella Lo, for Wizdy's "Did You Know?" series
+{: .caption }
+
 
 **So, where can we find you?**
 
