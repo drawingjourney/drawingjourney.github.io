@@ -127,7 +127,7 @@ Switching Careers
 
 **So once you made the decision to switch careers what did you do?**
 
---– First, I did some research. Google is your friend. I searched for
+--- First, I did some research. Google is your friend. I searched for
 things like, how do you get started in graphic design? What are some
 things you should know before getting into graphic design? What kind
 of gear do you need? Is it POSSIBLE to get a job if I start now,
