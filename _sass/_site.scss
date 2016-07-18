@@ -1,17 +1,17 @@
 .center {
-    display: block;
-    margin: auto;
+  display: block;
+  margin: auto;
 }
 
 .caption {
-    text-align: center;
-    font-style: italic;
-    font-size: $small-font-size;
+  font-size: $small-font-size;
+  font-style: italic;
+  text-align: center;
 }
 
 .gallery {
   td {
-    font-style: italic;
     font-size: $small-font-size;
+    font-style: italic;
   }
 }
