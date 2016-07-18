@@ -6,7 +6,7 @@ unique_id:  B9F155B7-67AD-41DA-BD54-8F685741FD14
 categories: tutorials
 ---
 
-![](http://i1.wp.com/drawingjourney.com/wp-content/uploads/2016/03/inking-headline.jpg)
+![](/assets/inking-headline.jpg)
 
 Ink is a very versatile and expressive medium, but it's also one of
 the most difficult to master. Working with ink can be incredibly
