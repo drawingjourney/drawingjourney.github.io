@@ -1,8 +1,8 @@
 ---
 layout:     post
-title:      "How Bella Lo Traded Her 9-5 For A Career In Art"
+title:      How Bella Lo Traded Her 9-5 For A Career In Art
 date:       2016-06-07 08:00:00
-unique_id:  "BF64249F-DEF5-4D90-A03A-44BA875B7910"
+unique_id:  BF64249F-DEF5-4D90-A03A-44BA875B7910
 categories: interviews
 ---
 
