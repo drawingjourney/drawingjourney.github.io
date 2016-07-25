@@ -50,9 +50,8 @@ a bigger pen. We will get to why line weight matters later, but for
 now just trust me when I say that it does.
 
 ![Line weight](/assets/line-weights-pen.jpg){: .center}
-
-{: .caption}
 Pen tip size controls line weight
+{: .caption}
 
 If you decide to go with fine-point pens, make sure you get some
 different thicknesses - 0.1mm, 0.3mm and 0.5mm should be a good start.
@@ -61,10 +60,9 @@ a discounted price, so be on the lookout for those if you're just
 starting out.
 
 ![Technical pens](/assets/technical-pens.jpg){: .center}
-
-{: .caption}
 Copic Multiliner, Staedler Pigment Liner and Sakura Pigma Micron - all
 good alternatives
+{: .caption}
 
 ## Crow-quill pens
 
@@ -78,9 +76,8 @@ line - a softer nib gives you more line weight variation, while
 a firmer nib gives you a more uniform line.
 
 ![Nib pressure](/assets/line-weights-nib-pen.jpg){: .center}
-
-{: .caption}
 Increasing pressure on the nib gives a heavier line
+{: .caption}
 
 The main drawback of a crow-quill pen is that you have to dip it in an
 inkwell quite frequently. It requires even more dipping than a brush
@@ -96,9 +93,8 @@ in two - as you apply pressure the gap widens, yielding a thicker
 line.
 
 ![Nibs](/assets/nib-pen.jpg){: .center}
-
-{: .caption}
 Nib holder with three different types of nibs
+{: .caption}
 
 ## Ink brushes
 
@@ -116,9 +112,8 @@ same brush can produce a much wider variety of line weights than a nib
 pen, but this also makes the line weight more difficult to control. 
 
 ![Brush strokes](/assets/line-weights-brush.jpg){: .center}
-
-{: .caption}
 Different strokes from the same brush - check out that line weight variation!
+{: .caption}
 
 You can also use a brush to get textures you wouldn’t be able to with
 a pen:“Overfilling” the brush with ink lets you make really round and
