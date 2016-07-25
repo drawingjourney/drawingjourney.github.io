@@ -1,10 +1,10 @@
 # Site settings
 title: Drawing Journey
-email: your-email@domain.com
+#email: your-email@domain.com
 description: >
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
+    Pleased to meet you! My name is Christoffer and I'm trying to get
+    better at drawing. I'm posting my experiences on this blog - what
+    worked well, what didn't and what I've learned along the way.
 baseurl: ""
 url: "http://drawingjourney.com"
 twitter_username: drawingjourney
