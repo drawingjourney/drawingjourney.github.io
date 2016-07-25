@@ -9,6 +9,7 @@ baseurl: ""
 url: "http://drawingjourney.com"
 twitter_username: drawingjourney
 #github_username:  jekyll
+permalink: /:title
 
 # Build settings
 markdown: kramdown
