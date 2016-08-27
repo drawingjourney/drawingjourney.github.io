@@ -10,6 +10,8 @@ url: "http://drawingjourney.com"
 twitter_username: drawingjourney
 #github_username:  jekyll
 permalink: /:title
+gems:
+  - jekyll-sitemap
 
 # Build settings
 markdown: kramdown
