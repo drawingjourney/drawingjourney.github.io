@@ -6,6 +6,8 @@ unique_id:  BF64249F-DEF5-4D90-A03A-44BA875B7910
 categories: interviews
 ---
 
+![Bella Lo Header Image](/assets/bella-lo-after-the-storm.jpg)
+
 Have you ever felt stuck in your career? Ever thought about quitting
 your 9-5 job to follow your passion instead? At some point I think
 most of us have, but few do more than think about it.
