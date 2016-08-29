@@ -1,12 +1,12 @@
 ---
 layout:     post
-title:      Getting Started With Inking
+title:      How To Get Started With Inking
 date:       2016-06-01 08:00:00
 unique_id:  B9F155B7-67AD-41DA-BD54-8F685741FD14
 categories: tutorials
 ---
 
-![](/assets/inking-headline.jpg)
+![Inking Header Image](/assets/inking-headline.jpg)
 
 Ink is a very versatile and expressive medium, but it's also one of
 the most difficult to master. Working with ink can be incredibly
