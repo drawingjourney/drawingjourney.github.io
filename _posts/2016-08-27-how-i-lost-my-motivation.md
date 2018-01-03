@@ -2,7 +2,7 @@
 layout:     post
 title:      How I Lost My Motivation To Draw - And How I Got It Back
 date:       2016-08-27 08:00:00
-unique_id:  EBD37FCD-F9C0-49A7-B1C5-B748922CCF6E
+uuid:       EBD37FCD-F9C0-49A7-B1C5-B748922CCF6E
 draft:      true
 categories: musings
 ---

@@ -2,7 +2,7 @@
 layout:     post
 title:      How To Get Started With Inking
 date:       2016-06-01 08:00:00
-unique_id:  B9F155B7-67AD-41DA-BD54-8F685741FD14
+uuid:       B9F155B7-67AD-41DA-BD54-8F685741FD14
 categories: tutorials
 ---
 

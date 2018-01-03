@@ -2,7 +2,7 @@
 layout:     post
 title:      New Years Art Resolutions (2018 Edition)
 date:       2017-12-25 08:00:00
-unique_id:  FDCA4B89-15D5-4732-AAD7-03C875E6D17C
+uuid:       FDCA4B89-15D5-4732-AAD7-03C875E6D17C
 ---
 
 
