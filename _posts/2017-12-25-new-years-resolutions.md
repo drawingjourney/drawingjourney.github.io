@@ -1,7 +1,7 @@
 ---
 layout:     post
 title:      2018 Art Resolutions
-date:       2017-12-25 08:00:00
+date:       2018-01-03 08:00:00
 uuid:       FDCA4B89-15D5-4732-AAD7-03C875E6D17C
 ---
 
