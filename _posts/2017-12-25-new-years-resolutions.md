@@ -9,7 +9,7 @@ I'm a big believer in goal-setting. Last year I set some very
 ambitious goals in different areas of my life, like fitness, personal
 finance and self-development, with unambigious and clear criteria for
 success. Unfortunately this didn't accomplish much other than
-generating an impressively diverse list of missed targets.
+generating an impressive list of things I *didn't* do.
 
 So, for this year I decided to be a bit more realistic and double down
 on something I really care about --- art --- and focus less on other
