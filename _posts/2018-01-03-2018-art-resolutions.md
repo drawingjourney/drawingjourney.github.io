@@ -11,14 +11,17 @@ finance and self-development, with measureable and clear goals for
 each category. Unfortunately this didn't accomplish much other than
 generating an impressive list of things I *didn't* do!
 
-So, for this year I decided to be a bit more realistic and double down
-on something I really care about: Improving my art skills.
+I think the problem was that I set too many goals I didn't really care
+much about. Regarding fitness, for example, if I'm strong enough to lifty
+my hands to keyboard level that's plenty.
 
-As such, here is my list of personal art goals for 2018:
+So, for this year I decided to be a bit more realistic and double down
+on something I really care about: Improving my art skills. As such,
+here is my list of personal art goals for 2018:
 
 ## Caricature drawing
 
-I would really like to learn caricature drawing. I've always liked
+I would really like to learn caricature drawing! I've always liked
 drawing faces, and playing with proportions and exaggeration seems
 really fun. Hopefully it will also help me get better at capturing
 likenesses in more realistic portraits as well. Also, if I want to
