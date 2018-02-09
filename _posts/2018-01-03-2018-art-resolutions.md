@@ -51,14 +51,16 @@ why things look the way they do or how they fit into the bigger
 picture.
 
 Hampton's approach feels way more structured---he starts with gesture
-and landmarks and then builds on that with the skeleton, the the
-muscles and so on. I don't know if it's my engineering background, but
-I really like going from big picture ideas to specifics, and
-understanding the "how" and "why" of things along the way.
+and landmarks and then builds on that with the skeleton, the muscles
+and so on. I don't know if it's my engineering background, but
+I really like going from big picture ideas to specifics. For me,
+understanding *why* something looks the way it does is as important as
+*how* it looks.
 
 One thing I'm worried about is if my construction drawing fundamentals
-are good enough. If not, I might try to complete something like
-[drawabox.com][drawabox] first and then get back to the book.
+are up to par. If not, I might try to complete something like
+[drawabox.com][drawabox] first and then get back to the Michael
+Hampton book.
 
 ## Don't be a donkey
 
@@ -69,9 +71,9 @@ and do something else instead.
 While the switch might seem perfectly reasonable at the time---"I can
 learn much more effectively from this other book!"---looking back
 I don't have much to show for it but a bunch of false starts. You
-could liken it to a [donkey that can't decide whether it should first
-eat or drink][buridan] and eventually dies of both thirst and
-starvation. So, another of my resolutions for 2018 is to not be
+could liken it to a donkey that [can't decide whether it should first
+eat or drink][buridan] and then dies of thirst and starvation
+simultaneously. So, another of my resolutions for 2018 is to not be
 a donkey!
 
 ## Summary
@@ -87,6 +89,9 @@ time amidst all my other commitments to update you on my progress!
 Have you set any art goals for 2018? If so I'd like to hear
 them---feel free to post about them in the comments section below!
 
+(If you'd like some inspiration Josh Kaufman has written a great post
+about [creating a personal masterplan][masterplan].)
+
 [schoolism]: https://schoolism.com
 [caricature]: https://www.schoolism.com/school.php?id=8
 [portraits]: https://www.schoolism.com/school.php?id=37
@@ -94,3 +99,4 @@ them---feel free to post about them in the comments section below!
 [figuredrawing]: https://www.amazon.com/Figure-Drawing-Invention-Michael-Hampton/dp/0615272819
 [drawabox]: http://drawabox.com/
 [buridan]: https://en.wikipedia.org/wiki/Buridan%27s_ass
+[masterplan]: https://joshkaufman.net/creating-a-personal-masterplan/
