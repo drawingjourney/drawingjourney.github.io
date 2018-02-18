@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  January 2018 Update
+title:  How not to paint hair, note-taking and more
 date:   2018-02-09 08:00:00
 uuid:   E4D4FB00-572B-4045-B3E0-D9CE8960CEFC
 ---
