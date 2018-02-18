@@ -5,42 +5,45 @@ date:   2018-02-09 08:00:00
 uuid:   E4D4FB00-572B-4045-B3E0-D9CE8960CEFC
 ---
 
-I started Jason Seilers portrait painting course last month. It consists of six
-lessons, so I thought a reasonable target would be to complete four of them by
-the end of February.
+![Get the detail virus out of your head!](/assets/detail-virus.png){: .center }
 
-It's now February 9th and I just finished lesson one. I guess I'm not good with
-estimates.
+I started Jason Seiler's [portrait painting course][portrait-course] last
+month.  It consists of six lessons, so I thought a reasonable target would be
+to complete four of them by the end of February.
+
+It's now February 9th and I just finished the first lesson. I guess I'm not
+very good with estimates!
 
 I will post an in-depth review of the course later, but for now I can say it
 does exactly what it says on the tin: If you want to learn how to paint
 portraits so realistic they look like they could jump out of the canvas and
 punch you in the face, this the course for you!
 
+(If you want to get more regular updates on my progress in the course, [check
+out my Instagram][instagram]!)
+
 ## What I've learned
 
 As I want to post more often I thought I'd try something new: Every month I'll
-post some highlights from what I've learned since last month. Here are some
-things I learned in the month of January:
+post some highlights from what I learned. Here are some things I learned in
+January:
 
 ### Painting hair
 
 Do you want to know the secret to painting hair? Don't paint hair! I guess this
 warrants some explanation...
 
-Individual hairs are extremely fine, but put them together and they almost
-start behaving like a solid mass.
+Individual hairs are extremely fine, but put them together and they start
+behaving like a solid, shiny mass, almost like a bunch of ribbons. To paint
+these "ribbons" you'll want to use a *big* brush to block in the midtones,
+shadows and highlights. Afterwards, you can go in with a *super fine* brush and
+add some details, like a stray lock, to really "sell" the idea of hair.
 
-Most of us knows that it's not feasible to paint every single hair on a persons
-head, but when we paint we still like to think of hair in terms of strands or
-locks. Even if it's not our *intention* to paint individual hairs we still try
-to follow the shape of the hair with, say, a medium-size brush.
-
-This is a trap! Instead, use a big brush (no, bigger than that!) to block in
-the general values of the hair (shadows, highlights and so on), and then use a
-*super fine* brush if you want to add some detail, like a stray lock.
-
-Think of it as painting big, shiny ribbons (henche "don't paint hair").
+However, if you go into the painting thinking that you'll paint *hair* instead
+of ribbons it's easy to fall into the trap of painting the hair as individual
+strands. Either you'll use a super tiny brush and slowly drive yourself insane,
+or do something in-between with a medium-sized brush. It's very time-consuming
+and doesn't look great (see below for a comparison). In conclusion, don't paint hair---paint ribbons!
 
 | -------------------------------- | --------------------------------- |
 | ![](/assets/luke-skywalker-1.jpg)| ![](/assets/luke-skywalker-2.jpg) |
@@ -53,7 +56,7 @@ up looking way better.
 
 ### Taking notes
 
-When you follow any type of course, make sure you take notes! I started the
+When you follow any type of course, make sure to take notes! I started the
 course taking notes in the Mac Notes app, but now I've switched to using pen
 and paper. Let me explain why:
 
@@ -68,40 +71,58 @@ and paper. Let me explain why:
  * For something as visual as painting, drawing becomes a highly effective way
    to take notes. This is way easier on paper.
 
-My current setup consists of a pen, mechanical pencils and a set of cool grey
-Promarkers. The markers are great for blocking in rough values.
+My current setup consists of a pen, mechanical pencil and a set of cool grey
+Promarkers. I do all my writing with the fineliner, and sometimes use it for
+drawing. For more complex drawings I use the pencil to draw a sketch, then
+block in values with the Promarkers. I also have a white gel roller that I use
+for highlights.
+
+For digitizing my notes, I use the excellent Scannable app for iOS and then
+upload them to Dropbox.
 
 ### Setting goals
 
-Setting these New Years goals has worked out great so far; they've boosted my
-motivation and given me some clear direction on where to go.
+If you read my last blog post you'll remember that I set some [New Year's
+resolutions for 2018][new-year]. Having concrete, short-term goals has turned
+out to be great for motivation and giving me a sense of direction. 
 
-I've had "become a better artist" as a goal for quite some time now, but by
-most standards of measurement it's a pretty terrible goal. Not that there's
-anything wrong with the goal itself, but it's not very helpful for gauging
-progress.
+If you don't have some goals for your artistic development, I highly recommend
+setting some!  Bobby Chiu, the founder of [Schoolism][schoolism], has some
+great tips for defining artistic goals:
 
-There's a fairly established set of criteria for setting more helpful goals,
-with an apt mnemonic: [SMART][smart-goals]. For a goal to meet the SMART
-criteria it needs to be:
+ * Write down your goals!
+ * Don’t work on too many goals at the same time---you’ll just spread yourself
+   too thin.
+ * Be ambitious---what would you aim for if you were guaranteed to succeed?
+ * Visualize yourself having already achieved your goal. What would it feel
+   like? This is a great source of motivation you can tap in to.
+ * Would the end result be worth all the trouble you would have to go through?
+   If not, choose a better goal.
 
- * Specific---is it clearly defined and unambiguous?
- * Measurable, e.g. how do you know if you've succeeded?
- * Actionable---does it suggest some concrete step forward?
- * Realistic---is it possible at all to succeed?
- * Time-bound, e.g. when is this thing supposed to be finished?
-
-I've found that setting these kinds of medium-term goals, e.g. finishing an art
-course, has been very helpful. It's given me a kind of direction and motivation
-I haven't had before. Try it out, it might help you too!
+(Taken from *The Perfect Bait*, which is [available for free on
+Youtube][perfect-bait])
 
 If you don’t have a course you want to finish you could do something else, like
 a [21 day challenge][21-days] where you focus on one specific area of your art
 that you want to improve.
 
-<!--As per my [New Years resolutions][new-year]-->
+## Wrapping up
 
-[new-year]: {{ site.baseurl }}{% post_url 2018-01-03-2018-art-resolutions %}
+Hope you've found these highlights useful---if you want more posts like this,
+or just want to leave some general feedback don't hesitate to reach out, either
+in the comments field below, or on social media.
+
+I'll be back next month with a new post. Until then, you can reach me on
+Instagram at [@christofferekeroth][instagram] and Twitter at
+[@chrekeroth][twitter]. Hope to hear from you!
+
+[new-year]: /2018-art-resolutions
 [fzd-self-study]: https://www.youtube.com/watch?v=k3Al7QAS89s
 [21-days]: https://medium.com/@noahbradley/21-days-to-be-a-better-artist-48087576f0dd
 [smart-goals]: https://en.wikipedia.org/wiki/SMART_criteria
+[realistic-portraits]: https://www.schoolism.com/school.php?id=37
+[perfect-bait]: https://www.youtube.com/watch?v=kG55UXhEgZs
+[portrait-course]: https://www.schoolism.com/school.php?id=37
+[instagram]: https://www.instagram.com/christofferekeroth/
+[twitter]: https://twitter.com/chrekeroth
+[schoolism]: https://www.schoolism.com
