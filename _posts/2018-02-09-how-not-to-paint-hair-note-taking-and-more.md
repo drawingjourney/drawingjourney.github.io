@@ -5,7 +5,7 @@ date:   2018-02-09 08:00:00
 uuid:   E4D4FB00-572B-4045-B3E0-D9CE8960CEFC
 ---
 
-![Get the detail virus out of your head!](/assets/detail-virus.png){: .center }
+![Sketchpad and markers](/assets/sketchpad-and-markers.JPG)
 
 I started Jason Seiler's [portrait painting course][portrait-course] last
 month.  It consists of six lessons, so I thought a reasonable target would be
