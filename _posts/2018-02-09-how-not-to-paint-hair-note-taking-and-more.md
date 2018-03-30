@@ -43,15 +43,19 @@ However, if you go into the painting thinking that you'll paint *hair* instead
 of ribbons it's easy to fall into the trap of painting the hair as individual
 strands. Either you'll use a super tiny brush and slowly drive yourself insane,
 or do something in-between with a medium-sized brush. It's very time-consuming
-and doesn't look great (see below for a comparison). In conclusion, don't paint hair---paint ribbons!
+and doesn't look great (see below for a comparison). The great James
+Gurney also has a post about the ["hair as ribbons"][the-ribbon-secret] idea on
+his blog.
+
+In conclusion, don't paint hair---paint ribbons!
 
 | -------------------------------- | --------------------------------- |
 | ![](/assets/luke-skywalker-1.jpg)| ![](/assets/luke-skywalker-2.jpg) |
 
 Two paintings of Luke Skywalker for the Realistic Portraits course. In the left
 one I've painted something between large shapes and individual strands. In the
-right one the hair is painted loosely and more like a solid mass, and it ends
-up looking way better.
+right one the hair is painted loosely and more like a solid mass, which I think
+looks way better.
 {: .caption}
 
 ### Taking notes
@@ -126,3 +130,4 @@ Instagram at [@christofferekeroth][instagram] and Twitter at
 [instagram]: https://www.instagram.com/christofferekeroth/
 [twitter]: https://twitter.com/chrekeroth
 [schoolism]: https://www.schoolism.com
+[the-ribbon-secret]: http://gurneyjourney.blogspot.se/2008/04/hair-ribbon-secret.html
