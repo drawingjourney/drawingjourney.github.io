@@ -75,8 +75,8 @@ what I mean.
 
 One takeaway here is that I was too lazy to really commit to the shape
 of the hand in the sketch stage, which is a mistake I make all the
-time. A sketch can be loose, but it shouldn't be ambiguous. Maybe
-I need to get that tattooed on my forearm.
+time. A sketch can be loose, but it shouldn't be ambiguous. I need to
+get that tattooed on my forearm.
 
 ## Value painting
 
@@ -110,6 +110,15 @@ I've got a bunch of tricks I like to use, like:
 
  * Zooming out. This is like computer-assisted squinting. I really
    should remember to use this more often.
+
+<!--Basically I just keep going like this until I'm happy with the-->
+<!--result or I get so tired of the painting I can't stand it any longer.-->
+
+Then I just keep going like this until I'm happy with the painting or
+I get sick of it, whatever comes first.
+
+After that it gets shipped of to the social media factory where it's
+packaged and transformed into Content® for the Internet to consume.
 
 [realistic-portraits]: https://www.schoolism.com/school.php?id=37
 [pinterest]: https://www.pinterest.com/
