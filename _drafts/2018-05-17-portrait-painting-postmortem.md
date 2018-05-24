@@ -1,15 +1,17 @@
 ---
 layout: post
-title:  Portrait Painting Process
 date:   2018-05-17
-draft:  true
+title:  Portrait Painting Process
 uuid:   D7138B3C-1428-48AE-9E8A-19FF3F2747B5
+excerpt_separator: <!-- more -->
 ---
 
 I sometimes write little "post-mortems" for myself when I've completed
 a larger piece. Usually I keep them in my personal notes, but
 I thought why not share it? After all, someone else might find it
 helpful.
+
+<!-- more -->
 
 I'm still working on Jason Seiler's [Realistic Portraits
 course][realistic-portraits] and the assignment for Lesson 4 was to do

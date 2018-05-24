@@ -3,6 +3,7 @@ layout: post
 title:  How not to paint hair, note-taking and more
 date:   2018-02-09 08:00:00
 uuid:   E4D4FB00-572B-4045-B3E0-D9CE8960CEFC
+excerpt_separator: <!-- more -->
 ---
 
 ![Sketchpad and markers](/assets/sketchpad-and-markers.JPG)
@@ -13,6 +14,8 @@ to complete four of them by the end of February.
 
 It's now February 9th and I just finished the first lesson. I guess I'm not
 very good with estimates!
+
+<!-- more -->
 
 I will post an in-depth review of the course later, but for now I can say it
 does exactly what it says on the tin: If you want to learn how to paint

@@ -4,6 +4,7 @@ title:      How To Get Started With Inking
 date:       2016-06-01 08:00:00
 uuid:       B9F155B7-67AD-41DA-BD54-8F685741FD14
 categories: tutorials
+excerpt_separator: <!-- more -->
 ---
 
 ![Inking Header Image](/assets/inking-headline.jpg)
@@ -14,6 +15,8 @@ frustrating; all it takes is one small mistake to ruin a perfectly
 good drawing, and when you do make a mistake it’s usually hard to
 correct.
 
+<!-- more -->
+
 Inking can also be incredibly rewarding - there's nothing quite like
 putting the finishing touches to a nice ink drawing. It's also easy to
 get started, the tools are relatively cheap, and there's relatively
@@ -22,7 +25,8 @@ little needed in terms of preparation and cleaning.
 In the following series of posts I will show you how to get started
 with inking. I will also share some my best tips and the most
 embarrassing mistakes I’ve made while experimenting with the Black
-Art. In this first post I'll review the tools you need to get started.
+Arts. In this first post I'll review the tools you need to get
+started.
 
 ## Tools
 

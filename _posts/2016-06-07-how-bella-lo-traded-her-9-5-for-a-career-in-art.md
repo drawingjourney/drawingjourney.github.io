@@ -4,6 +4,7 @@ title:      How Bella Lo Traded Her 9-5 For A Career In Art
 date:       2016-06-07 08:00:00
 uuid:       BF64249F-DEF5-4D90-A03A-44BA875B7910
 categories: interviews
+excerpt_separator: <!-- more -->
 ---
 
 ![Bella Lo Header Image](/assets/bella-lo-after-the-storm.jpg)
@@ -15,6 +16,8 @@ most of us have, but few do more than think about it.
 That's why I was so excited to hear Bella Lo's story --- stuck in a job
 she disliked, Bella decided to take the leap from art hobbyist to
 professional.
+
+<!-- more -->
 
 A couple of months later she landed her first design position
 at [Wizdy Games](http://wizdygames.com/), a startup that makes
