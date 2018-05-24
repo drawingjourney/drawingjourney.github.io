@@ -18,7 +18,7 @@ Read on, if you dare, and imitate at your own risk!
 
 ## Reference
 
-The first step of the process is to find something to paint.
+The first step of my process is to find something to paint!
 
 I'm a [Pinterest][pinterest] user (read: addict), so that's where
 I usually go to find reference.
